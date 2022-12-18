@@ -1,0 +1,16 @@
+D:\C# classroom\OnlineClassroomSourceCode2\bin\Debug\net5.0\OnlineClassroomSourceCode2.exe
+D:\C# classroom\OnlineClassroomSourceCode2\bin\Debug\net5.0\OnlineClassroomSourceCode2.deps.json
+D:\C# classroom\OnlineClassroomSourceCode2\bin\Debug\net5.0\OnlineClassroomSourceCode2.runtimeconfig.json
+D:\C# classroom\OnlineClassroomSourceCode2\bin\Debug\net5.0\OnlineClassroomSourceCode2.runtimeconfig.dev.json
+D:\C# classroom\OnlineClassroomSourceCode2\bin\Debug\net5.0\OnlineClassroomSourceCode2.dll
+D:\C# classroom\OnlineClassroomSourceCode2\bin\Debug\net5.0\OnlineClassroomSourceCode2.pdb
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.csproj.AssemblyReference.cache
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.AssemblyInfoInputs.cache
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.AssemblyInfo.cs
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.csproj.CoreCompileInputs.cache
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.dll
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\refint\OnlineClassroomSourceCode2.dll
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.pdb
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\OnlineClassroomSourceCode2.genruntimeconfig.cache
+D:\C# classroom\OnlineClassroomSourceCode2\obj\Debug\net5.0\ref\OnlineClassroomSourceCode2.dll
