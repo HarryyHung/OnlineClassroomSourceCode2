@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace online_classroom
+namespace OnlineClassroomSourceCode2
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {

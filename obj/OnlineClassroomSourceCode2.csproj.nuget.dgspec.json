@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# classroom\\OnlineClassroomSourceCode2\\online_classroom\\online_classroom\\online_classroom.csproj": {}
+    "D:\\C# classroom\\OnlineClassroomSourceCode2\\OnlineClassroomSourceCode2.csproj": {}
   },
   "projects": {
-    "D:\\C# classroom\\OnlineClassroomSourceCode2\\online_classroom\\online_classroom\\online_classroom.csproj": {
+    "D:\\C# classroom\\OnlineClassroomSourceCode2\\OnlineClassroomSourceCode2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# classroom\\OnlineClassroomSourceCode2\\online_classroom\\online_classroom\\online_classroom.csproj",
-        "projectName": "online_classroom",
-        "projectPath": "D:\\C# classroom\\OnlineClassroomSourceCode2\\online_classroom\\online_classroom\\online_classroom.csproj",
+        "projectUniqueName": "D:\\C# classroom\\OnlineClassroomSourceCode2\\OnlineClassroomSourceCode2.csproj",
+        "projectName": "OnlineClassroomSourceCode2",
+        "projectPath": "D:\\C# classroom\\OnlineClassroomSourceCode2\\OnlineClassroomSourceCode2.csproj",
         "packagesPath": "C:\\Users\\buidu\\.nuget\\packages\\",
-        "outputPath": "D:\\C# classroom\\OnlineClassroomSourceCode2\\online_classroom\\online_classroom\\obj\\",
+        "outputPath": "D:\\C# classroom\\OnlineClassroomSourceCode2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buidu\\AppData\\Roaming\\NuGet\\NuGet.Config",
