@@ -9,12 +9,12 @@ namespace OnlineClassroomSourceCode2.Base
     {
         private int numType { get; set; }
         private int choiceTest_15 { get; set; }
-        // Pass a parameter when entering test time
-        public string timeTest(int timeTest)
-        {
-            return "Create a successful 15 minute lesson. Please enter the number of test types you want: ";
-        }
 
+        // constructor
+        public int numTypes()
+        {
+            return 0;
+        }
         // Pass a parameter when you enter the number of test types
         public int numTypes(int _numType)
         {
@@ -23,26 +23,23 @@ namespace OnlineClassroomSourceCode2.Base
         }
 
         // Pass
-        public string types()
+        public string createQuestion()
         {
-            for (int i = 0; i < numType; i++)
-            {
-                System.Console.WriteLine("1. Assignment");
-                System.Console.WriteLine("2. Quiz");
-                System.Console.WriteLine("3. Presentation");
-                choiceTest_15 = int.Parse(Console.ReadLine());
+            System.Console.WriteLine("1. Assignment");
+            System.Console.WriteLine("2. Quiz");
+            System.Console.WriteLine("3. Presentation");
+            choiceTest_15 = int.Parse(Console.ReadLine());
 
-                if (choiceTest_15 == 1)
-                {
-                    return "Question " + (numType + 1);
-                }
-                // else if()
-                else
-                {
-                    return null;
-                }
+            if (choiceTest_15 == 1)
+            {
+                return "Question " + (numType + 1);
+            }
+            // else if()
+            else
+            {
+                return null;
             }
         }
-
+        
     }
 }

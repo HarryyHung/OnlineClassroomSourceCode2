@@ -8,8 +8,7 @@ namespace OnlineClassroomSourceCode2.Base
     public interface ITest
     {
         // Initialize method
-        string timeTest();
         int numTypes();
-        string types();
+        string createQuestion();
     }
 }
