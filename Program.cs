@@ -28,7 +28,12 @@ namespace OnlineClassroomSourceCode2
                             test1 = new Test_15();
                             if (timeTest == 15) test1.createQuestion();
                         }
-
+                        else if (timeTest == 45)
+                        {
+                            ITest test2;
+                            test2 = new Test_45();
+                            if (timeTest == 45) test2.createQuestion();
+                        }
                         break;
                     case 2:
                         System.Console.WriteLine("Menu 2");
