@@ -7,7 +7,9 @@ namespace OnlineClassroomSourceCode2.Base
 {
     public interface ITest
     {
-        // tao hop dong 
-        public string createQuestion();
+        // Initialize method
+        string timeTest();
+        int numTypes();
+        string types();
     }
 }

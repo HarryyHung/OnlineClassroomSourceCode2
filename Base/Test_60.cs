@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace OnlineClassroomSourceCode2.Base
 {
-    public class Test_45 : ITest
+    public class Test_60
     {
         
     }
