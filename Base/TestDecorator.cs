@@ -13,9 +13,9 @@ namespace OnlineClassroomSourceCode2.Base
         {
             test = inner;
         }
-        public virtual void createQuestion()
+        public virtual string createQuestion()
         {
-            test.createQuestion();
+            return test.createQuestion();
         }
     }
 }

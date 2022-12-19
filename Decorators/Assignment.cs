@@ -13,11 +13,11 @@ namespace OnlineClassroomSourceCode2.Decorators
         {
         }
 
-        public override void createQuestion()
+        public override string createQuestion()
         {
             System.Console.WriteLine("1. What's your name?");
             string answer1 = Console.ReadLine();
-            base.createQuestion();
+            return (answer1 + base.createQuestion());
         }
     }
 }

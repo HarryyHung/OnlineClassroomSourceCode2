@@ -8,6 +8,6 @@ namespace OnlineClassroomSourceCode2.Base
     public interface ITest
     {
         // tao hop dong 
-        public void createQuestion();
+        public string createQuestion();
     }
 }

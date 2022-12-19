@@ -9,7 +9,7 @@ namespace OnlineClassroomSourceCode2.Base
     {
         // khoi tao choiceType de dua ra lua chon
         private int choiceType { get; set; }
-        public void createQuestion()
+        public string createQuestion()
         {
             System.Console.WriteLine("Ban muon chon loai bai tap nao?");
             System.Console.WriteLine("1. Assignment");
@@ -18,19 +18,19 @@ namespace OnlineClassroomSourceCode2.Base
 
             if (choiceType == 1)
             {
-                
+                return "This is a question: ";
             }
-            else if (choiceType == 2)
-            {
+            // else if (choiceType == 2)
+            // {
 
-            }
-            else if (choiceType == 1 && choiceType == 2)
-            {
+            // }
+            // else if (choiceType == 1 && choiceType == 2)
+            // {
 
-            }
+            // }
             else
             {
-                System.Console.WriteLine("Lua chon khong hop le!");
+                return "Lua chon khong hop le";
             }
         }
     }
